@@ -19,11 +19,6 @@ public class Persona {
     	numPrestamos++;
     }
     
-    public void pSP (){
-        System.out.println("Nombre: "+ n);
-        System.out.println("Edad: "+ edad);
-        System.out.println("Teléfono: "+ numeroDeTelefono);
-    }
     
      public void pTI (){
         System.out.println("Nombre: "+ n);

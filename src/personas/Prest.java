@@ -1,7 +1,6 @@
 package personas;
 
 public class Prest {
-	
 	int c;
 	
 	public Prest(int c) {
